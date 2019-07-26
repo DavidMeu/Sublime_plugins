@@ -1,0 +1,12 @@
+[
+{
+	"keys": ["ctrl+s"],
+	"command": "chain", 
+		"args": {
+			"commands": [
+				["save"],
+				["bck"]
+				]
+				}
+}
+]
